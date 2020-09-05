@@ -3,8 +3,8 @@
 Message Pack components for ESP32 (esp-idf).
 
 ## Usage
-
-1. clone or submodule this repo to `components/msgpack`.
+1. get latest release from https://github.com/msgpack/msgpack-c/releases/latest
+2. copy files to `components/msgpack`.
 2. use!
 
 ## Example app
